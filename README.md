@@ -19,11 +19,11 @@ Exhibit. A: The dreaded wall of text
 
 # How to make it work
 1. Keep it super simple
-  a. Markdown format for blog posts
-  b. Use service like Jekyll for blog post
-  c. Offer response to previous blog post
-  d. Keep the discussion alive (either a segue or a new topic)
-  e. A reponse once a month should suffice
+2. Markdown format for blog posts
+3. Use service like Jekyll for blog post
+4. Offer response to previous blog post
+5. Keep the discussion alive (either a segue or a new topic)
+6. A reponse once a month should suffice
   
 
 I don't think I've ever seen anything like this before.  
